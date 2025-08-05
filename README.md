@@ -39,7 +39,7 @@ As Project Manager, I was responsible for:
 
 - [Business Case](docs/Business_Case.pdf)
 - [Project Charter & WBS](docs/Project_Charter_Scope_WBS.pdf)
-- [Gantt Chart](docs/GanttChart.pdf)
+- [Gantt Chart](docs/Gantt_Chart_Presentation.pdf)
 - [Agile Planning & Reflection](docs/Agile_Planning_Reflection.pdf)
 ---
 
