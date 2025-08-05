@@ -35,7 +35,12 @@ As Project Manager, I was responsible for:
   ├── GanttChart.pdf                # Full project timeline with milestones and task durations
   └── Agile_Planning_Reflection.pdf # Agile backlog, sprint plans, personas, reflections
 ```
+### 📄 Access Key Documents
 
+- [Business Case](docs/Business_Case.pdf)
+- [Project Charter & WBS](docs/Project_Charter_Scope_WBS.pdf)
+- [Gantt Chart](docs/GanttChart.pdf)
+- [Agile Planning & Reflection](docs/Agile_Planning_Reflection.pdf)
 ---
 
 ## ⭐ Key Achievements
