@@ -60,9 +60,9 @@ This project demonstrates my capability to:
 
 ## 📢 Contact
 
-**Ngoc B Truong**  
-Email: your-email@example.com  
-LinkedIn: your-linkedin-profile
+**Ngoc (Betty) Truong**  
+Email: bettytruong293@gmail.com 
+LinkedIn: https://www.linkedin.com/in/ngoc-bao-truong-553bbb192/
 
 ---
 
